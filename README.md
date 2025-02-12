@@ -23,4 +23,4 @@ A **simple and responsive task manager** web application built with **HTML**, **
 
 ## 🚀 How to Use
 1. Clone the repository:
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/Anoshkhan/Simple_Task_Manager.git
