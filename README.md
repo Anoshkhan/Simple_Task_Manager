@@ -1,7 +1,6 @@
 # 📝 Task Manager
 
 A **simple and responsive task manager** web application built with **HTML**, **CSS**, and **JavaScript**.  
-Easily add, complete, and delete tasks with a user-friendly interface and a clean, **light purple theme**.
 **Made as a mini project for Saylani students during class.**
 ---
 
