@@ -16,9 +16,8 @@ A **simple and responsive task manager** web application built with **HTML**, **
 ## 📷 Screenshots
 ### Desktop View  
 
+![Screenshot (43)](https://github.com/user-attachments/assets/c0848899-2c5c-4fce-ba2d-1312c57c90e9)
 
-
-### Mobile View  
 
 ---
 
